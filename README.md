@@ -28,7 +28,7 @@ npm-file-link
 
 The tool will find dependencies able to be linked because are cloned locally too in the same folder level, and will let you choose which ones to link using a CLI:
 
-![Choose package screenshot](assets/choose-screenshot.png)
+![Choose package screenshot](assets/screen-capture.gif)
 
 Once you have chosen the dependencies to link, it will replace them locally by the correspondent `file:..` dependency in the current package and will run an `npm i` automatically. (Previous defined versions of the dependencies will be stored into a property in the `package.json` file automatically, and will be restored when the package is unlinked)
 
