@@ -1,5 +1,5 @@
 {
-  "name": "@xbyorange/npm-file-link",
+  "name": "npm-file-link",
   "version": "1.0.0",
   "description": "CLI for linking npm repositories locally using \"file:\" method",
   "keywords": [
@@ -11,9 +11,9 @@
     "development",
     "local"
   ],
-  "author": "XbyOrange",
+  "author": "Javier Brea",
   "license": "Apache-2.0",
-  "repository": "https://github.com/xbyorange/npm-file-link",
+  "repository": "https://github.com/javierbrea/npm-file-link",
   "publishConfig": {
     "access": "public"
   },

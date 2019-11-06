@@ -11,7 +11,7 @@ CLI for automatically linking npm repositories locally using \"file:\" method.
 ### Install
 
 ```bash
-npm i @xbyorange/npm-file-link -g
+npm i npm-file-link -g
 ```
 
 ### Usage
@@ -96,19 +96,19 @@ Please read the [contributing guidelines](.github/CONTRIBUTING.md) and [code of 
 [inquirer-url]: https://www.npmjs.com/package/inquirer#support-os-terminals
 [inquirer-support]: https://www.npmjs.com/package/inquirer#support-os-terminals
 
-[coveralls-image]: https://coveralls.io/repos/github/XbyOrange/npm-file-link/badge.svg
-[coveralls-url]: https://coveralls.io/github/XbyOrange/npm-file-link
-[travisci-image]: https://travis-ci.com/xbyorange/npm-file-link.svg?branch=master
-[travisci-url]: https://travis-ci.com/xbyorange/npm-file-link
-[last-commit-image]: https://img.shields.io/github/last-commit/xbyorange/npm-file-link.svg
-[last-commit-url]: https://github.com/xbyorange/npm-file-link/commits
-[license-image]: https://img.shields.io/npm/l/@xbyorange/npm-file-link.svg
-[license-url]: https://github.com/xbyorange/npm-file-link/blob/master/LICENSE
-[npm-downloads-image]: https://img.shields.io/npm/dm/@xbyorange/npm-file-link.svg
-[npm-downloads-url]: https://www.npmjs.com/package/@xbyorange/npm-file-link
-[npm-dependencies-image]: https://img.shields.io/david/xbyorange/npm-file-link.svg
-[npm-dependencies-url]: https://david-dm.org/xbyorange/npm-file-link
-[quality-gate-image]: https://sonarcloud.io/api/project_badges/measure?project=xbyorange-npm-file-link&metric=alert_status
-[quality-gate-url]: https://sonarcloud.io/dashboard?id=xbyorange-npm-file-link
-[release-image]: https://img.shields.io/github/release-date/xbyorange/npm-file-link.svg
-[release-url]: https://github.com/xbyorange/npm-file-link/releases
+[coveralls-image]: https://coveralls.io/repos/github/javierbrea/npm-file-link/badge.svg
+[coveralls-url]: https://coveralls.io/github/javierbrea/npm-file-link
+[travisci-image]: https://travis-ci.com/javierbrea/npm-file-link.svg?branch=master
+[travisci-url]: https://travis-ci.com/javierbrea/npm-file-link
+[last-commit-image]: https://img.shields.io/github/last-commit/javierbrea/npm-file-link.svg
+[last-commit-url]: https://github.com/javierbrea/npm-file-link/commits
+[license-image]: https://img.shields.io/npm/l/npm-file-link.svg
+[license-url]: https://github.com/javierbrea/npm-file-link/blob/master/LICENSE
+[npm-downloads-image]: https://img.shields.io/npm/dm/npm-file-link.svg
+[npm-downloads-url]: https://www.npmjs.com/package/npm-file-link
+[npm-dependencies-image]: https://img.shields.io/david/javierbrea/npm-file-link.svg
+[npm-dependencies-url]: https://david-dm.org/javierbrea/npm-file-link
+[quality-gate-image]: https://sonarcloud.io/api/project_badges/measure?project=npm-file-link&metric=alert_status
+[quality-gate-url]: https://sonarcloud.io/dashboard?id=npm-file-link
+[release-image]: https://img.shields.io/github/release-date/javierbrea/npm-file-link.svg
+[release-url]: https://github.com/javierbrea/npm-file-link/releases
