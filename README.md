@@ -70,6 +70,8 @@ npm-file-link -ua
  
 ### Caveats
 
+### Do not commit local modifications.
+
 Linked packages have have modifications in the `package.json` and in the `package-lock.json` file that should never be pushed to the remote repository.
 
 **Before pushing any change, you must execute:**
@@ -83,6 +85,10 @@ To avoid pushing local links to the remote repository, this package provides a `
 ```bash
 npm-file-link --check
 ```
+
+### Do not install or modify any other dependency while packages are linked.
+
+While you have locally linked dependencies, the `package-lock.json` file is modified by npm according to local paths references. This file should be reverted after unlinking dependencies, so do not install or upgrade any other dependency while you have local links.
 
 ### Support (OS Terminals)
 
