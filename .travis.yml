@@ -21,7 +21,7 @@ script:
   - npm run avoid-file-links
   - npm run test
   - npm run coveralls
-  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then sonar-scanner; fi'
+  - sonar-scanner -Dsonar.login=${SONAR_TOKEN}
 
 deploy:
   provider: npm
