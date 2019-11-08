@@ -1,5 +1,6 @@
+npm-file-link
 Copyright 2019 Javier Brea
 
-This project was forked, and ALL FILES WERE MODIFICATED, from:
-  XByOrange npm-file-link, distributed under The Apache Software License, Version 2.0. - Forked from xbyorange/npm-file-link github repository (https://github.com/XbyOrange/npm-file-link), branch v1.0.0, commit 7de958092ebb5b1f32fef4f7a30dcb9a9aabede0 (https://github.com/XbyOrange/npm-file-link/commit/7de958092ebb5b1f32fef4f7a30dcb9a9aabede0).
-
+Portions of this software were developed at XbyOrange company.
+  XByOrange npm-file-link, distributed under The Apache Software License, Version 2.0.
+  Github repository (https://github.com/XbyOrange/npm-file-link), branch v1.0.0, commit 7de958092ebb5b1f32fef4f7a30dcb9a9aabede0. The  original project files were wrongly licensed because an error of the main maintainer, Javier Brea, who received instructions from the XbyOrange company about licensing it as Apache2.0, but didn't include the appropiate license header in all repository files by error. The error has been fixed and XbyOrange license headers have been added to all original files, as it was the real intention of the XbyOrange company.

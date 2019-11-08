@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Removed
 ### BREAKING CHANGES
 
+## [1.1.1] - 2019-11-8
+### Fixed
+- Fix license. Read NOTICE file for further info
+
 ## [1.1.0] - 2019-11-7
 ### Changed
 - Upgrade dependencies
