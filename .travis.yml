@@ -19,7 +19,7 @@ script:
   - npm run avoid-file-links
   - npm run test
   - npm run coveralls
-  - sonar-scanner -Dsonar.login=${SONAR_TOKEN}
+  # - sonar-scanner -Dsonar.login=${SONAR_TOKEN}
 
 deploy:
   provider: npm
