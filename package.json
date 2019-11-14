@@ -1,6 +1,6 @@
 {
   "name": "npm-file-link",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "CLI for linking npm repositories locally using \"file:\" method",
   "keywords": [
     "cli",
@@ -35,10 +35,11 @@
   },
   "dependencies": {
     "chalk": "3.0.0-beta.2",
+    "commander": "^4.0.1",
     "fs-extra": "^8.1.0",
     "globule": "^1.2.1",
-    "lodash": "^4.17.15",
-    "inquirer": "^7.0.0"
+    "inquirer": "^7.0.0",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "coveralls": "^3.0.7",

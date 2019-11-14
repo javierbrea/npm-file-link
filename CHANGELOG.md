@@ -13,15 +13,20 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Removed
 ### BREAKING CHANGES
 
-## [1.1.1] - 2019-11-8
+## [1.1.2] - 2019-11-14
+
+### Fixed
+- Add commander to dependencies
+
+## [1.1.1] - 2019-11-08
 ### Fixed
 - Fix license. Read NOTICE file for further info
 
-## [1.1.0] - 2019-11-7
+## [1.1.0] - 2019-11-07
 ### Changed
 - Upgrade dependencies
  
-## [1.0.0] - 2019-11-6
+## [1.0.0] - 2019-11-06
 ### Added
 - Forked from xbyorange/npm-file-link github repository (https://github.com/XbyOrange/npm-file-link), branch v1.0.0, commit 7de958092ebb5b1f32fef4f7a30dcb9a9aabede0 (https://github.com/XbyOrange/npm-file-link/commit/7de958092ebb5b1f32fef4f7a30dcb9a9aabede0).
 - Migrated from "XbyOrange" npm-file-link private repository, version 1.0.1
