@@ -6,6 +6,8 @@
 
 # Npm file link
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/javierbrea/npm-file-link.svg)](https://greenkeeper.io/)
+
 CLI for automatically linking npm repositories locally using \"file:\" method.
 
 ### Install
