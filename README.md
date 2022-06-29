@@ -2,6 +2,8 @@
 
 > This package is no longer maintained. As alternative, consider using Npm clients providing support for monorepositories, such as [Pnpm workspaces](https://pnpm.io/workspaces).
 
+---
+
 [![Build status][travisci-image]][travisci-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Quality Gate][quality-gate-image]][quality-gate-url]
 
 [![NPM dependencies][npm-dependencies-image]][npm-dependencies-url] [![Last commit][last-commit-image]][last-commit-url] [![Last release][release-image]][release-url] 
