@@ -4,6 +4,10 @@
 
 [![NPM downloads][npm-downloads-image]][npm-downloads-url] [![License][license-image]][license-url]
 
+# ⚠ Deprecation notice
+
+> This package is no longer maintained. As alternative, consider using Npm clients providing support for monorepositories, such as [Pnpm workspaces](https://pnpm.io/workspaces).
+
 # Npm file link
 
 CLI for automatically linking npm repositories locally using \"file:\" method.
